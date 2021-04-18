@@ -27,7 +27,14 @@ hugo version
 4、创建Hugo站点 在Git Bash中，进入想要保存站点文件夹的路径，执行
 hugo new site myblog
 系统会生成一个名为myblog的站点工程文件夹
-目录结构如下：  archetypes/ content/ #静态页面目录 data/ layouts/ resourse/ static/ #静态文件目录 themes/ #主题目录 config.toml #配置文件
+目录结构如下：  archetypes/
+content/ #静态页面目录
+data/
+layouts/
+resourse/
+static/ #静态文件目录
+themes/ #主题目录
+config.toml #配置文件
  5、添加主题 在Hugo 主题选择一款主题（我选择的是Beautiful Hugo）,将其下载到themes目录下（或者在themes目录下使用指令添加）
 然后修改根目录中的config.toml文件
 其中baseurl为要发布的GitHub网址，title为博客的名字，theme为主题的名字
