@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的博客</title>
+    <link>https://mosemandie.github.io/posts/</link>
+    <description>Recent content in Posts on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 20:49:33 +0800</lastBuildDate><atom:link href="https://mosemandie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web前端 1</title>
+      <link>https://mosemandie.github.io/posts/blog2-web%E5%89%8D%E7%AB%AF%E5%88%9D%E6%AD%A5/</link>
+      <pubDate>Sat, 24 Apr 2021 20:49:33 +0800</pubDate>
+      
+      <guid>https://mosemandie.github.io/posts/blog2-web%E5%89%8D%E7%AB%AF%E5%88%9D%E6%AD%A5/</guid>
+      <description>第三篇blog</description>
+    </item>
+    
+    <item>
+      <title>My First Blog</title>
+      <link>https://mosemandie.github.io/posts/my-first-blog/</link>
+      <pubDate>Sun, 11 Apr 2021 13:40:28 +0800</pubDate>
+      
+      <guid>https://mosemandie.github.io/posts/my-first-blog/</guid>
+      <description>第一篇blog
+1、Hugo简介 搭建个人搭建个人博客有很多开源的博客框架，我使用的框架是Hugo。Hugo 是一个基于Go 语言的框架，可以快速方便的创建自己的博客。
+Hugo 支持Markdown 语法，我们可以将自己的文章写成Markdown 的格式，放在我们用Hugo 创建的博客系统中，从而展示给他人。</description>
+    </item>
+    
+  </channel>
+</rss>
